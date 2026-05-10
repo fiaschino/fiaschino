@@ -5,17 +5,11 @@
 - 👀 I’m interested in chemical process modelling 🏭, experimental techniques 🔬, sustainable technologies 🌱, and scientific computing 👨‍💻  
 
 ### 🌱 Currently learning
-- 💻 Advanced C++  
-- 🌪️ DEM/CFD modelling  
-- 📐 Numerical methods for multiphase systems  
+- 💻 Advanced C++ & its application to DEM/CFD modelling  
+- 📐 Numerical methods for multiphase systems and chemical reactor / processes 
 
 ### 🎯 Other interests
-- 🥾 Hiking  
-- 🏃 Running  
-- 🚴 Cycling  
-- 🛹 Skateboarding  
-- 🎸 Playing guitar  
-- 🇳🇱 Learning Dutch    
+- 🏃 Sporting: Hiking, running, cycling, skateboarding. I also like to take pictures and learn Dutch    
 
 ### 📫 Contact
 - 📧 Reach me through my work email (available on my university profile):  
