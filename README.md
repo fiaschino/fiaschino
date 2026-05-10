@@ -12,5 +12,4 @@
 - 🏃 Sporting: Hiking, running, cycling, skateboarding. I also like to take pictures and learn Dutch    
 
 ### 📫 Contact
-- 📧 Reach me through my work email (available on my university profile):  
-  https://www.tue.nl/en/research/researchers/andrea-fiaschi/
+- 📧 Reach me through my work email (available on the profile)
