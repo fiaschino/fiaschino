@@ -12,4 +12,4 @@
 - 🏃 Sporting: Hiking, running, cycling, skateboarding. I also like to take pictures and learn Dutch    
 
 ### 📫 Contact
-- 📧 Reach me through my work email (available on the profile)
+- 📧 Reach me through my email (available on the profile)
